@@ -28,8 +28,3 @@ This first version, has a limited number of pre-defined animes. I will add more 
   ![About Page](/img/screenshots/about-page.png)
 
   ![Drawer](/img/screenshots/drawer.png)
-
-
-## Licence
-
-MIT
