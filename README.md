@@ -2,7 +2,7 @@
 
 WatchAnime - Mobile App built with React Native.
 
-WatchAnime allows you to search and watch the animes that you love. WatchAnime, which is built using [React Native](https://facebook.github.io/react-native/), available on [Google Play](https://play.google.com/store/apps/details?id=) and the [App Store](https://itunes.apple.com/us/app/).
+WatchAnime allows you to search and watch the animes that you love. WatchAnime, which is built using [React Native](https://facebook.github.io/react-native/).
 
 It shares the same codebase for iOS and Android.
 
